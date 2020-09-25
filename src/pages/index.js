@@ -10,19 +10,19 @@ export default function Home() {
       <input type="hidden" name="form-name" value="contact" />
       <div>
         <p>Nimi</p>
-        <input type='text' name='nimi' />
+        <input type='text' name='name' />
       </div>
       <div>
         <p>Sposti</p>
-        <input type='email' name='sposti' />
+        <input type='email' name='email' />
       </div>
       <div>
         <p>Puhelin</p>
-        <input type='text' name='puhelin' />
+        <input type='text' name='tel' />
       </div>
       <div>
         <p>Viesti</p>
-        <textarea type='text' name='viesti' />
+        <textarea type='text' name='message' />
       </div>
       <p>Hyväksyn 
         <input type='checkbox' />
