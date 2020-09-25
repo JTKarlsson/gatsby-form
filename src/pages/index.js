@@ -5,7 +5,7 @@ export default function Home() {
 
   return (<div id="contact2">
     <form method="post" netlify-honeypot="bot-field" data-netlify="true" 
-    name="contact2" action='https://gatsby-form-joni.netlify.app/#contact2'>
+    name="contact2" >
       <input type="hidden" name="bot-field" />
       <input type="hidden" name="form-name" value="contact2" />
       <div>
