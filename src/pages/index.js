@@ -9,7 +9,7 @@ export default function Home() {
       <input type="hidden" name="bot-field" />
       <input type="hidden" name="form-name" value="contact" />
       <div>
-        <p>Nimi</p>
+        <p>Nimi2</p>
         <input type='text' name='name' />
       </div>
       <div>
